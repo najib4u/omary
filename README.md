@@ -1,2 +1,0 @@
-# omary
-site for kids
